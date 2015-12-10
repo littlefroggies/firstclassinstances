@@ -1,8 +1,8 @@
 # firstclassinstances
-Some approaches on implementation of type class inheritance in Haskell.
+Some approaches to implementation of type class inheritance in Haskell.
 
 ## Description
-``ClassInheritanceBasic.hs`` contains initial approach with lesser dependencies on GHC's pragmas.
+``ClassInheritanceBasic.hs`` contains initial approach with less dependencies on GHC's pragmas.
 
 Second example will be added soon.
 
